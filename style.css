@@ -1,6 +1,14 @@
 .text-platzi {
     color: #97c93e !Important;
 }
+#header img {
+    max-width: 80px;
+}
+
+#main img{
+    max-height: 80vh;
+    object-fit: cover;
+}
 
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);;
@@ -10,6 +18,3 @@
     color: white;
 }
 
-#header img {
-    max-width: 80px;
-}
