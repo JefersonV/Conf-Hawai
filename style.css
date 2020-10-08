@@ -5,6 +5,7 @@
     max-width: 80px;
 }
 
+
 #main .carousel-inner img{
     max-height: 80vh;
     object-fit: cover;
@@ -29,6 +30,16 @@
 
 #carousel .container, #carousel .row {
 height: 100%;
+}
+
+.btn-platzi {
+    background-color: #97c93e;
+    color: white;
+}
+
+.btn-platzi:hover {
+    background-color: #82ad36;
+    color: white;
 }
 
 #footer {
