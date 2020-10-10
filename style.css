@@ -53,6 +53,9 @@ height: 100%;
     max-width: 100%;
 }
 
+.form-group-col{
+    width: 450px;
+}
 
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);;
